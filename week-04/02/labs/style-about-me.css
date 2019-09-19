@@ -1,0 +1,25 @@
+body {
+    line-height: 4em;
+    width: 1024px;
+    margin: 0 auto;
+    border: 2px solid #666;
+}
+#section1{
+    border-bottom-style: dotted;
+}
+
+h1 {
+    font: Arial 24px;
+    font-weight: 700;
+    color: orange
+}
+
+h2 {
+    font: Arial 14px;
+    font-weight: 600;
+    color: orangered
+}
+
+section {
+    margin-bottom: auto;
+}
