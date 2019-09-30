@@ -1,0 +1,63 @@
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+        li {
+            padding: 10px;
+            width: 460px;
+        }
+        .odd {
+            background: #f1f1f1;
+        }
+        .even {
+            background: #e1e1e1;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            padding: 10px;
+        }
+        td {
+            padding: 10px;
+            text-align: center;
+        }
+        
+         /* ID selector */
+        
+        a:hover {
+            color: orange;
+        }
+
+        #Philadelphia {
+            color: #07163f;
+            background: #e90101;
+        }
+
+        #Patriots {
+            color: #e90101;
+            background: #07163f;
+        }
+
+        #Broncos {
+            color: #07163f;
+            background: #e90101;
+        }
+       
+
+        th:nth-child(1){
+            width:60px;
+            color:orange;
+        }
+        th:nth-child(2){
+            width:100px;
+            color:orangered;
+        }
+        th:nth-child(3){
+            width:100px;
+            color:green;
+        }
+        th:nth-child(4){
+            width:200px;
+            color:darkgreen;
+        }
