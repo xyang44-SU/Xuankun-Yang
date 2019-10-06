@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="Macarons.css"> 
+    <title>Dessert</title>
+</head>
+
+<body>
+    <header>
+<div class="M-image">
+    <div class="M-text">
+        <h1 style="font-size:75px">Macarons</h1>
+    </div>
+</div>
+    </header>
+    <main>
+    <section>
+<div class="row">
+    <div class="leftcolumn">
+        <div class="card">
+            <h2>What is Macarons</h2>
+            <div class="fakeimg1" style="height:200px;">From Frence</div>
+            <p>Macarons was created by Pierre Desfontaines.
+                <abbr title="Pierre Desfontaines">PD</abbr> created it in the early part of the 20th century.
+                It have been produced in the Venetian monasteries since the 8th century A.D.</p>
+        </div>
+        <div class="card">
+            <h2>How to make Macarons</h2>
+            <h3>Before make it</h3>
+            <div class="fakeimg2" style="height:200px;">From Frence</div>
+                <dl>
+                    <dt>The materials</dt>
+                    <dd>egg white; icing sugar; granulated sugar; almond powder; and food coloring.</dd>
+                </dl>      
+            <h4>Detail steps</h4>
+        </div>
+    </div>
+    <div class="rightcolumn">
+        <div class="card">
+            <h2>Your ways</h2>
+            <div class="fakeimg3" style="height:100px;">Image</div>
+            <p>Provide your ways of making Macarons.</p>
+        </div>
+    </div>
+</div>
+    </section>
+
+<footer>
+    <p>Posted by: Xuankun Yang</p>
+    <p>Contact information: <a href="mailto:xyang44@syr.edu">
+    xyang44@syr.edu</a>.</p>
+</footer>
+
+</main>
+</body>
+</html>
