@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Desserts</title>
+        <link rel="stylesheet" type="text/css" href="home.css">
+    </head>
+
+<body>
+    <header>
+<div class="waffles-image">
+    <div class="waffles-text">
+        <h1 style="font-size:70px">The secret of the dessert</h1>
+        <p style="font-size:25px">1% sugar + 99% good mood = A good dessert</p>
+    </div>
+</div>
+    </header>
+
+<main>
+    <section>
+<div class="row">
+    <div class="leftcolumn">
+        <div class="card">
+            <h2>The famous dessert in China</h2>
+            <h3><a href="page2.html">Green bean cake</a></h3>
+            <div class="fakeimg1" style="height:200px;">From China</div>
+            <p>Green bean cake was created by Cao Xiang Tai.
+            (The <abbr title="Cao Xiang Tai">CXT</abbr> was founded in 1884.)</p>
+               <dl>
+                   <dt>Green bean cake in Wuhan, China</dt>
+                   <dd>Soft sweet bean cake, remove heat of fire</dd>
+                </dl>  
+        </div>
+        <div class="card">
+            <h2>The famous dessert in France</h2>
+            <h3><a href="page3.html">Macarons</a></h3>
+            <div class="fakeimg2" style="height:200px;">From France</div>
+            <p>French macarons were invented in the twentieth century by Pierre Desfontaines Ladurée.</p>
+                <dl>
+                   <dt>Macarons in France</dt>
+                   <dd>It has jam and butter cream between two cookies. </dd>
+                </dl>
+        </div>
+    </div>
+
+    <div class="rightcolumn">
+        <div class="card">
+            <h2>Join us</h2>
+            <div class="fakeimg3" style="height:100px;">Image</div>
+            <p>Join us to learn how to make desserts</p>
+        </div>
+    </div>
+</div>
+    </section>
+
+    <footer>
+    <p>Posted by: Xuankun Yang</p>
+    <p>Contact information: <a href="mailto:xyang44@syr.edu"> xyang44@syr.edu</a>.</p>
+    </footer>
+</main>
+</body>
+</html>
