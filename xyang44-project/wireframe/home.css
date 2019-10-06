@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+
+  .waffles-image {
+    background-image: url("waffles.jpg");
+    background-color: #cccccc;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .waffles-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+  }
+
+h3 a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .leftcolumn {   
+    float: left;
+    width: 75%;
+  }
+
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+  }
+  
+
+  .fakeimg1 {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+    background-image: url("Green1.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .fakeimg2 {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+    background-image: url("M1.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+
+  .fakeimg3 {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {   
+      width: 100%;
+      padding: 0;
+    }
+  }
