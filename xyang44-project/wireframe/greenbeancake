@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>greenbeancake</title>
+    <link rel="stylesheet" type="text/css" href="greenbeancake.css">
+</head>
+
+<body>
+    <header>
+<div class="Green-image">
+    <div class="Green-text">
+        <h1 style="font-size:75px">Green bean cake</h1>
+    </div>
+</div>
+    </header>
+<main>
+    <section>
+<div class="row">
+    <div class="leftcolumn">
+        <div class="card">
+            <h2>What is Green bean cake</h2>
+            <div class="fakeimg1" style="height:200px;">From China</div>
+            <p>Green bean cake is the famous dessert in China, but it has differnt types in differenty city.
+                    Each city has their famous brand of Green bean cake.
+                    But the people in Wuhan, China think their Green bean cake is the most delicious, 
+                    expecially Cao Xiang Tai.
+                    The <abbr title="Cao Xiang Tai">CXT</abbr> was created by Cao Nanshan in 1884.
+                    After many years, it becomes the famous brand in Wuhan, China.</p>
+        </div>
+
+        <div class="card">
+            <h2>How to make Green bean cake</h2>
+            <h3>Before make it</h3>
+            <div class="fakeimg2" style="height:200px;">Image</div>
+                <dl>
+                    <dt>The materials</dt>
+                    <dd>Green bean; sesame oil; white granulated sugar; and malt sygar.</dd>
+                </dl>
+            <h4>Detail steps</h4>
+        </div>
+    </div>
+
+    <div class="rightcolumn">
+        <div class="card">
+            <h2>Your ways</h2>
+            <div class="fakeimg3" style="height:100px;">Image</div>
+            <p>Provide your ways of making Green bean cake.</p>
+        </div>
+    </div>
+</div>
+</section>
+
+    <footer>
+    <p>Posted by: Xuankun Yang</p>
+    <p>Contact information: <a href="mailto:xyang44@syr.edu">
+    xyang44@syr.edu</a>.</p>
+    </footer>
+</main>
+</body>
+</html>
