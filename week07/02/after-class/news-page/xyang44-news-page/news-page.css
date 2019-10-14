@@ -1,0 +1,47 @@
+header {
+    background-color: #333;
+    color: #fff;
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 0 auto;
+}
+
+div.header {
+    padding: 5px;
+}
+
+div.header p {
+    margin: 0;
+}
+
+div.header h1 {
+    margin: 5px 0;
+}
+
+
+.background {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+}
+
+.card {
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
