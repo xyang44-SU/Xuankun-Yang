@@ -1,0 +1,441 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+nav{
+	background-color: rgb(255, 160, 152);
+}
+
+.inner{
+	width: 1250px;
+	margin: auto;
+}
+
+.box{
+	width: 1040px;
+	margin: auto;
+}
+
+.nava{	
+	font-family: "Times New Roman", Times, serif;
+	justify-content: space-between;
+	flex-direction: row;
+	display: flex;
+}
+
+.logo{
+	color: #FEFAE0;
+	font-size: 35px;
+}
+
+
+ul{
+	margin: 0px;
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+nav div ul li a{
+	color: #FEFEF0;
+	text-decoration: none;
+    padding: 35px 20px 28px 20px;
+}
+
+nav div ul li a:hover{
+	background-color: #FEFEF0;
+	color: rgb(255, 160, 152);
+
+}
+
+
+
+.container{
+	margin-top: 3%;
+}
+
+
+.section1{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: #ffffff;
+}
+
+
+.first {
+	background-image: url("./image/first-ice-cream1.jpg");
+	width: 100%;
+	height: 700px;
+}
+
+.introducebox {
+	font-family: "Times New Roman", Times, serif;
+	float: right;
+	margin-right: 7%;
+	margin-top:24%;
+	height: 45%;
+	width: 30%;
+	background-color:rgba(255, 255, 255, 0.651);
+}
+
+.introduce{
+    color: rgb(255, 160, 152);
+	font-size: 30px;
+	padding: 60px 50px 20px 50px;
+}
+
+.learnA{
+	background-color: rgb(255, 160, 152);
+	height: 70px;
+    width: 200px;
+    margin-left: 50px;
+    text-align: center;
+    padding: 10px 20px 20px 20px;
+}
+
+.section1 div a{
+    font-size: 30px; 
+	color: #FBF8E4;
+    text-decoration: none;
+}
+
+.section1 div a:hover{
+	background-color: #FEFEF0;
+	color: rgb(255, 160, 152);
+}
+
+
+
+
+
+.section2{
+	background-color: #FBF8E4;
+	padding-bottom: 50px;
+}
+
+.countries{
+	font-family: Pacifico;
+	color: rgb(255, 160, 152);
+	font-size: 60px;
+	height: 90px;
+	padding-top: 80px;
+    padding-bottom: 13%;
+}
+
+.countriesrow{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-bottom: 2%;
+}
+
+.countriesname{
+	font-family: "Times New Roman", Times, serif;
+	color: rgb(255, 160, 152);
+	font-size: 90px;
+    text-align: center;
+}
+
+.section2 div a{
+    font-size: 30px; 
+	color: rgb(255, 160, 152);
+    text-decoration: none;
+}
+
+.section2 div a:hover{
+	background-color: #FBF8E4;
+	color: rgb(139, 183, 196);
+}
+
+
+
+
+.section3{
+	margin: 0px;
+    background-color: rgb(255, 160, 152);
+    padding: 120px 250px 120px 250px;
+}
+
+.popular{
+	display: flex;
+	flex-direction: row;
+}
+
+.popular1box{
+	font-family: "Times New Roman", Times, serif;
+	padding: 10px 0px 0px 0px;
+	margin-left:55px;
+    width: 450px;
+}
+
+.most{
+	font-family: Pacifico;
+    font-size: 60px;
+	color: #FBF8E4;
+	padding-bottom: 10%;
+}
+
+.mosttext{
+	font-size: 20px;
+	color: #FBF8E4;
+	margin-bottom: 35px;
+    line-height: 1.5;
+}
+
+.learn{
+	height: 50px;
+	padding-top:10px;
+    background-color: #FBF8E4;
+    text-align: center;   
+}
+
+.section3 div a{
+	font-size: 20px;
+	color: rgb(255, 160, 152);
+	text-decoration: none;
+}
+
+.section3 div a:hover{
+	background-color: rgb(255, 160, 152);
+	color: #FEFEF0;
+}
+
+
+.section4{
+	margin: 0px;
+    background-color: rgb(139, 183, 196);
+    padding: 120px 250px 120px 250px;
+}
+
+.section4 div a{
+	font-size: 20px;
+	color: rgb(255, 160, 152);
+	text-decoration: none;
+}
+
+.section4 div a:hover{
+	background-color: rgb(255, 160, 152);
+	color: #FEFEF0;
+}
+
+
+
+.section5{
+	background-color: #ffffff;
+}
+
+.everyone{
+	color: rgb(139, 183, 196);
+	height: 80px;
+	font-size: 60px;
+	font-family: Pacifico;
+    padding-top: 5%;
+    padding-bottom: 13%;
+}
+
+.everyr{
+	font-family: "Times New Roman", Times, serif;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-bottom: 100px;
+}
+
+.everyb{
+	background-color: rgb(139, 183, 196);
+	width: 220px;
+	height: 400px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.picc{
+    border-radius:80%;
+}
+
+.sen{
+	color: #ffffff;
+	font-size: 22px;
+	padding: 20px 12px 15px 12px;
+}
+
+.senn{
+	color: #ffffff;
+    font-size: 28px;
+}
+
+
+
+
+.end{
+	font-family: "Times New Roman", Times, serif;
+	background-color: #FDF8E4;
+	padding: 15px 0px 20px 10px;
+}
+
+.logo1{
+	color: rgb(255, 160, 152);
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.contect{
+	color: rgb(139, 183, 196);
+	font-size: 20px;
+	padding: 15px 0px 20px 10px;
+}
+
+
+
+
+
+
+
+
+
+/*chinese-desserts*/
+
+.c1{
+	width: 1200px;
+	padding-left: 75px;
+	margin: auto;
+}
+
+#seedessert{
+	font-size: 70px;
+	font-family: Pacifico;
+	margin-left: 25.5%;
+	margin-top: 5%;
+	height: 85px;
+	color: rgb(255, 160, 152);
+}
+
+.diffdesserts {
+	font-family: "Times New Roman", Times, serif;
+	display: flex;
+	flex-direction: row;
+	margin-left: 2.5%;
+	margin-top: 1%;
+	list-style: none;
+	text-align: center;
+}
+
+#dessert_container{
+	margin-right: 10%;
+	height: 900px;
+
+}
+
+/* Common style */
+figure {
+	position: relative;
+	overflow: hidden;
+	max-width: 480px;
+	max-height: 360px;
+	width: 50%;
+	background: #39b7d4;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+figcaption {
+	padding: 2px;
+	color: #fff;
+}
+
+figcaption,
+figcaption > a {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+figure.change img {
+	height: 400px;
+}
+
+figure.change h2{
+	padding-top: 20%;
+	transition: transform 0.5s;
+	text-align: center;
+	font-size: 30px;
+	color:white;
+	-webkit-transform: translate3d(0,-30px,0);
+	transform: translate3d(0,-30px,0);
+}
+
+figure.change p {
+	opacity: 0;
+	padding: 10px 10px;
+	font-size: 17px;
+}
+
+img,
+figcaption::before,
+figcaption::after,
+figure.change p {
+	-webkit-transition: opacity 0.5s, -webkit-transform 0.5s;
+	transition: opacity 0.5s, transform 0.5s;
+}
+
+.change:hover img {
+	opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+.change:hover h2,
+.change:hover p{
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+#dessertbottom{
+	font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	height: 150px;
+}
+
+#bottom1, #bottom2{
+	border-radius: 30px;
+	width: 370px;
+	height: 60px;
+	font-size: 40px;
+	background-color:rgb(255, 160, 152);
+	text-align: center;
+	float: left;
+	margin-left: 10%;
+
+	color: #FDF8E4;
+}
+
+#bottom2{
+	margin-left: 11%;
+}
+
+#bottom1:hover,
+#bottom2:hover{
+	background-color: rgb(247, 126, 115);
+}
+
+
+.end2{
+	font-family: "Times New Roman", Times, serif;
+	background-color: rgb(255, 160, 152);
+	padding: 15px 0px 20px 10px;
+}
+
+.logo2{
+	color: #FDF8E4;
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.contect2{
+	color: #FDF8E4;
+	font-size: 20px;
+	padding: 15px 0px 20px 10px;
+}
