@@ -1,0 +1,424 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+nav{
+	background-color: rgb(253, 186, 180);
+}
+
+.inner{
+	width: 1250px;
+	margin: auto;
+}
+
+.box{
+	margin: auto;
+}
+
+.nava{	
+	font-family: "Times New Roman", Times, serif;
+	justify-content: space-between;
+	flex-direction: row;
+	display: flex;
+}
+
+.logo{
+	background-color: rgb(255, 160, 152);
+	color: #FEFAE0;
+	font-family: "Times New Roman", Times, serif;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	font-size: 50px;
+}
+
+
+ul{
+	margin: 0px;
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+nav div ul li a{
+	color: #FEFEF0;
+	text-decoration: none;
+    padding: 35px 20px 28px 20px;
+}
+
+nav div ul li a:hover{
+	background-color: #FEFEF0;
+	color: rgb(255, 160, 152);
+
+}
+
+
+
+.container{
+	margin-top: 3%;
+}
+
+
+.section1{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	background-color: #ffffff;
+}
+
+
+.first {
+	background-image: url("./image/first-ice-cream1.jpg");
+	width: 100%;
+	height: 700px;
+}
+
+.introducebox {
+	font-family: "Times New Roman", Times, serif;
+	float: right;
+	margin-right: 7%;
+	margin-top:24%;
+	height: 45%;
+	width: 30%;
+	background-color:rgba(255, 255, 255, 0.651);
+}
+
+.introduce{
+    color: rgb(255, 160, 152);
+	font-size: 30px;
+	padding: 60px 50px 20px 50px;
+}
+
+.learnA{
+	background-color: rgb(255, 160, 152);
+	height: 70px;
+    width: 200px;
+    margin-left: 50px;
+    text-align: center;
+    padding: 10px 20px 20px 20px;
+}
+
+.section1 div a{
+    font-size: 30px; 
+	color: #FBF8E4;
+    text-decoration: none;
+}
+
+.section1 div a:hover{
+	background-color: #FEFEF0;
+	color: rgb(255, 160, 152);
+}
+
+
+
+
+
+.section2{
+	padding-top:5%;
+	background-color: #FBF8E4;
+}
+
+.countries{
+	font-family: Pacifico;
+	color: rgb(255, 160, 152);
+	font-size: 60px;
+	padding-bottom:5%;
+}
+
+.countriesname{
+	font-family: "Times New Roman", Times, serif;
+	color: rgb(255, 160, 152);
+	font-size: 90px;
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.section2 div a{
+    font-size: 30px; 
+	color: rgb(255, 160, 152);
+    text-decoration: none;
+}
+
+.section2 div a:hover{
+	background-color: #FBF8E4;
+	color: rgb(139, 183, 196);
+}
+
+
+
+
+.section3{
+	margin: 0px;
+	background-color: rgb(255, 160, 152);
+	padding:5% 5% 5% 5%;
+}
+
+.popular1box{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.most{
+	font-family: Pacifico;
+    font-size: 60px;
+	color: #FBF8E4;
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+
+.mosttext{
+	font-size: 20px;
+	color: #FBF8E4;
+	padding-top: 5%;
+	padding-bottom: 5%;
+    line-height: 1.5;
+}
+
+.learn{
+	height: 50px;
+	padding-top:10px;
+    background-color: #FBF8E4;
+	text-align: center; 
+}
+
+.section3 div a{
+	font-size: 20px;
+	color: rgb(255, 160, 152);
+	text-decoration: none;
+}
+
+.section3 div a:hover{
+	background-color: rgb(255, 160, 152);
+	color: #FEFEF0;
+}
+
+
+
+
+.section4{
+	background-color: rgb(139, 183, 196);
+	padding:5% 5% 5% 5%;
+}
+
+.section4 div a{
+	font-size: 20px;
+	color: rgb(255, 160, 152);
+	text-decoration: none;
+}
+
+.section4 div a:hover{
+	background-color: rgb(255, 160, 152);
+	color: #FEFEF0;
+}
+
+.popular1box{
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+.section5{
+	background-color: #ffffff;
+	
+}
+
+.everyone{
+	color: rgb(139, 183, 196);
+	font-size: 60px;
+	font-family: Pacifico;
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.everyr{
+	font-family: "Times New Roman", Times, serif;
+	justify-content: space-between;
+}
+
+.everyb{
+	background-color: rgb(139, 183, 196);
+	width: 220px;
+	height: 400px;
+	text-align: center;
+}
+
+.picc{
+	padding-top: 15%;
+    border-radius:100%;
+}
+
+.sen{
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+	font-size: 22px;
+	padding: 20px 12px 15px 12px;
+}
+
+.senn{
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+    font-size: 28px;
+}
+
+
+.end{
+	font-family: "Times New Roman", Times, serif;
+	background-color: #FDF8E4;
+	padding-top: 2%;
+}
+
+.logo1{
+	color: rgb(255, 160, 152);
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.contect{
+	color: rgb(139, 183, 196);
+	font-size: 20px;
+	padding-bottom: 2%;
+}
+
+
+
+
+
+
+
+
+
+/*chinese-desserts*/
+
+.c1{
+	padding-left: 75px;
+	padding-right: 75px;
+	margin: auto;
+}
+
+#seedessert{
+	font-size: 70px;
+	font-family: Pacifico;
+	margin-left: 25.5%;
+	margin-top: 5%;
+	color: rgb(255, 160, 152);
+}
+
+.diffdesserts {
+	font-family: "Times New Roman", Times, serif;
+	margin-left: 2%;
+	margin-top: 1%;
+	list-style: none;
+	text-align: center;
+}
+
+#dessert_container{
+	margin-right: 10%;
+}
+
+/* Common style */
+figure {
+	position: relative;
+	overflow: hidden;
+	background: #39b7d4;
+	text-align: center;
+	height:350px;
+	width:350px;
+}
+
+figcaption {
+	padding: 2px;
+	color: #fff;
+}
+
+figcaption,
+figcaption > a {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+figure.change h2{
+	padding-top: 20%;
+	transition: transform 0.5s;
+	text-align: center;
+	font-size: 30px;
+	color:white;
+	-webkit-transform: translate3d(0,-30px,0);
+	transform: translate3d(0,-30px,0);
+}
+
+figure.change p {
+	opacity: 0;
+	padding: 10px 10px;
+	font-size: 17px;
+}
+
+img,
+figcaption::before,
+figcaption::after,
+figure.change p {
+	-webkit-transition: opacity 0.5s, -webkit-transform 0.5s;
+	transition: opacity 0.5s, transform 0.5s;
+}
+
+.change:hover img {
+	opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+.change:hover h2,
+.change:hover p{
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+#dessertbottom{
+	font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	height: 100px;
+}
+
+#bottom1, #bottom2{
+	border-radius: 30px;
+	width: 230px;
+	height: 40px;
+	font-size: 15px;
+	background-color:rgb(255, 160, 152);
+	text-align: center;
+	float: left;
+	margin-left: 10%;
+	color: #FDF8E4;
+	padding-top: 1.5%;
+}
+
+#bottom1{
+	margin-left: 31%;
+	margin-bottom: 2%;
+}
+
+#bottom2{
+	margin-left: 31%;
+}
+
+#bottom1:hover,
+#bottom2:hover{
+	background-color: rgb(247, 126, 115);
+}
+
+
+.end2{
+    padding-top: 40%;
+	font-family: "Times New Roman", Times, serif;
+	background-color: rgb(255, 160, 152);
+}
+
+.logo2{
+	color: #FDF8E4;
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.contect2{
+	color: #FDF8E4;
+	font-size: 20px;
+	padding: 15px 0px 20px 10px;
+}
