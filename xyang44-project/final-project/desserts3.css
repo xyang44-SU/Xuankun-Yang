@@ -1,0 +1,269 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+nav{
+	background-color: rgb(168, 88, 81);
+	font-family: "Times New Roman", Times, serif;
+}
+
+.inner{
+	width: 1250px;
+	margin: auto;
+}
+
+.box{
+	margin: auto;
+}
+
+.navbar-toggler{
+	font-family: "Times New Roman", Times, serif;
+	background-color: rgb(250, 248, 235);
+	border-color: #FEFAE0;
+	color:rgb(138, 81, 76);
+}
+
+.logo{
+	background-color: rgb(138, 81, 76);
+	color: #FEFAE0;
+	font-family: "Times New Roman", Times, serif;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	font-size: 50px;
+}
+
+
+ul{
+	margin: 0px;
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+nav div ul li a{
+	color: #FEFEF0;
+	text-decoration: none;
+    padding: 35px 20px 28px 20px;
+}
+
+nav div ul li a:hover{
+	background-color: #FEFEF0;
+	color: rgb(168, 88, 81);
+
+}
+
+.container{
+	margin-top: 3%;
+}
+
+
+
+.section1{
+	padding-top: 1%;
+	padding-bottom: 3%;
+	background-color: #ffffff;
+	color:white;
+}
+
+.first {
+	background-image: url("./image/first-ice-cream1.jpg");
+	height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.second{
+	font-family: "Times New Roman", Times, serif;
+	color: rgb(255, 160, 152);
+	background-color: rgba(255, 255, 255, 0.651);
+}
+
+.section1 div a{
+    font-size: 30px; 
+	color: #FBF8E4;
+    text-decoration: none;
+}
+
+.section1 div a:hover{
+	background-color: #FEFEF0;
+	color: rgb(168, 88, 81);
+}
+
+
+
+
+
+.section2{
+	padding-top:5%;
+	background-color: #FBF8E4;
+}
+
+.countries{
+	font-family: Pacifico;
+	color: rgb(168, 88, 81);
+	font-size: 60px;
+	padding-bottom:5%;
+}
+
+.countriesname{
+	font-family: "Times New Roman", Times, serif;
+	color: rgb(168, 88, 81);
+	font-size: 90px;
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.section2 div a{
+    font-size: 30px; 
+	color: rgb(168, 88, 81);
+    text-decoration: none;
+}
+
+.section2 div a:hover{
+	background-color: #FBF8E4;
+	color: rgb(139, 183, 196);
+}
+
+
+
+
+.section3{
+	margin: auto 0;
+	background-color: rgb(168, 88, 81);
+	padding:5% 5% 5% 5%;
+}
+
+.popular1box{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.most{
+	font-family: Pacifico;
+    font-size: 60px;
+	color: #FBF8E4;
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+
+.mosttext{
+	font-size: 20px;
+	color: #FBF8E4;
+	padding-top: 5%;
+	padding-bottom: 5%;
+    line-height: 1.5;
+}
+
+.learn{
+	height: 50px;
+	padding-top:10px;
+    background-color: #FBF8E4;
+	text-align: center; 
+}
+
+.section3 div a{
+	font-size: 20px;
+	color: rgb(168, 88, 81);
+	text-decoration: none;
+}
+
+.section3 div a:hover{
+	background-color: rgb(255, 160, 152);
+	color: #FEFEF0;
+}
+
+
+
+
+.section4{
+	background-color: rgb(41, 107, 128);
+	padding:5% 5% 5% 5%;
+}
+
+.section4 div a{
+	font-size: 20px;
+	color: rgb(168, 88, 81);
+	text-decoration: none;
+}
+
+.section4 div a:hover{
+	background-color: rgb(168, 88, 81);
+	color: #FEFEF0;
+}
+
+.popular1box{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.section5{
+	background-color: #ffffff;
+	margin:auto 0;
+	
+}
+
+.everyone{
+	color: rgb(41, 107, 128);
+	font-size: 60px;
+	font-family: Pacifico;
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.everyr{
+	font-family: "Times New Roman", Times, serif;
+	justify-content: space-between;
+}
+
+.everyb{
+	background-color: rgb(41, 107, 128);
+	text-align: center;
+}
+
+.picc{
+	padding-top: 15%;
+    border-radius:100%;
+}
+
+.sen{
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+	font-size: 22px;
+	padding: 20px 12px 15px 12px;
+}
+
+.senn{
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+    font-size: 28px;
+}
+
+.end{
+	font-family: "Times New Roman", Times, serif;
+	background-color: #FDF8E4;
+	padding-top: 2%;
+}
+
+.logo1{
+	color: rgb(168, 88, 81);
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.contect{
+	color: rgb(41, 107, 128);
+	font-size: 20px;
+	padding-bottom: 2%;
+}
+
+
+/*chinese-desserts*/
+
+.seedessert{
+	font-size: 70px;
+	font-family: Pacifico;
+	margin-top: 5%;
+	margin-bottom: 2%;
+	color: rgb(168, 88, 81);
+}
